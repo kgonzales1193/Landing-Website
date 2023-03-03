@@ -1,6 +1,6 @@
 import CountUp, { useCountUp } from 'react-countup';
 import Lottie from 'lottie-react';
-import Scene5 from '../public/scene5.json';
+import Scene5 from '../public/Scene5.json';
 
 type Props = {};
 const Header = (props: Props) => {
